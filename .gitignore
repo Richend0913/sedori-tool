@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 output/
 screenshot*.png
-.streamlit/
+.streamlit/secrets.toml
